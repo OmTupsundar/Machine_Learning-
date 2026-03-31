@@ -1,0 +1,9 @@
+[2026-03-31 11:48:13,993] 164 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[2026-03-31 11:48:15,533] 24 root - INFO - Entered data ingestion method
+[2026-03-31 11:48:15,540] 29 root - INFO - Dataset loaded successfully
+[2026-03-31 11:48:15,543] 36 root - INFO - Train-test split started
+[2026-03-31 11:48:15,549] 43 root - INFO - Data ingestion completed
+[2026-03-31 11:48:15,580] 76 root - INFO - Read train and test data completed
+[2026-03-31 11:48:15,580] 78 root - INFO - obtaining preprocessing object
+[2026-03-31 11:48:15,580] 54 root - INFO - Categorical columns : ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+[2026-03-31 11:48:15,580] 55 root - INFO - Numerical columns : ['reading score', 'writing score']
